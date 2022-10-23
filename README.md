@@ -1,0 +1,1 @@
+created this project using a keyboard.keyCode event. Made use of innerhtml and a basic styling
